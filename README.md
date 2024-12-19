@@ -5,13 +5,26 @@
 
 Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif Mayora - 3 (MY3) Prodi Teknologi Informasi Universitas Tangerang Raya. Aplikasi ini memudahkan dalam memonitoring dan pengelolaan data kas.
 
-## Tampilan Aplikasi
+## Fitur
+
+- Melihat Informasi Saldo, Pemasukan, dan Pengeluaran
+- Mengelola Pemasukan (add, edit, delete)
+- Mengelola Pengeluaran (add, edit, delete)
+- Mencari Daftar Transaksi berdasarkan tanggal dipilih
+- Download Laporan Transaksi Keuangan dalam Format PDF
+
+## Sistem Requirement
+- Database : MySQL
+- Server : XAMPP
+- PHP 8.4 / Bootstrap
+
+## Tampilan Halaman Home
 ![ss](img/ss1.png)
 
-## Features
+## Tampilan Halaman Admin
+![ss](img/ss1.png)
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## Kontribusi
+Nur Amali Fikriyah ![nuramali](assets/img/contributions/nuramali.jpg)
+Raghib Galieh Basmallah ![raghib](assets/img/contributions/raghib.jpg)
+Demi Irawan ![demi](assets/img/contributions/demi.jpg)
