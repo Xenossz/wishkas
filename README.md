@@ -25,6 +25,6 @@ Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif
 ![admin](img/ss1.png)
 
 ## Kontribusi
-Nur Amali Fikriyah ![nuramali](assets/img/contributions/nuramali.jpg)
-Raghib Galieh Basmallah ![raghib](assets/img/contributions/raghib.jpg)
-Demi Irawan ![demi](assets/img/contributions/demi.jpeg)
+![nuramali](assets/img/contributions/nuramali.jpg)
+![raghib](assets/img/contributions/raghib.jpg)
+![demi](assets/img/contributions/demi.jpeg)
