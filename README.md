@@ -28,3 +28,4 @@ Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif
 ![nuramali](assets/img/contributions/nuramali.jpg)
 ![raghib](assets/img/contributions/raghib.jpg)
 ![demi](assets/img/contributions/demi.jpeg)
+Nur Amali Fikriyah
