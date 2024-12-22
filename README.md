@@ -19,10 +19,10 @@ Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif
 - PHP 8.4 / Bootstrap
 
 ## Tampilan Halaman Home
-![ss](img/ss1.png)
+![home](assets/img/website-menu-home.png)
 
 ## Tampilan Halaman Admin
-![ss](img/ss1.png)
+![admin](img/ss1.png)
 
 ## Kontribusi
 Nur Amali Fikriyah ![nuramali](assets/img/contributions/nuramali.jpg)
