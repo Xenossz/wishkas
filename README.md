@@ -22,7 +22,17 @@ Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif
 ![home](assets/img/website-menu-home.png)
 
 ## Tampilan Halaman Admin
-![admin](img/ss1.png)
+![admin](assets/img/ss-admin/img1.jpg)
+![admin](assets/img/ss-admin/img2.jpg)
+![admin](assets/img/ss-admin/img3.jpg)
+![admin](assets/img/ss-admin/img4.jpg)
+![admin](assets/img/ss-admin/img5.jpg)
+![admin](assets/img/ss-admin/img6.jpg)
+![admin](assets/img/ss-admin/img7.jpg)
+![admin](assets/img/ss-admin/img8.jpg)
+![admin](assets/img/ss-admin/img9.jpg)
+![admin](assets/img/ss-admin/img10.jpg)
+![admin](assets/img/ss-admin/img11.jpg)
 
 ## Kontribusi
 ![nuramali](assets/img/contributions/nuramali.jpg)
