@@ -16,7 +16,7 @@ Wish - Kas adalah aplikasi web pencatatan digital uang kas kampus kelas Intensif
 ## Sistem Requirement
 - Database : MySQL
 - Server : XAMPP
-- PHP 8.4 / Bootstrap
+- PHP 8.4
 
 ## Tampilan Halaman Home
 ![home](assets/img/website-menu-home.png)
